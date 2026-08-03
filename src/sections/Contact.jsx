@@ -17,18 +17,6 @@ const contactInfo = [
     value: "vaishnavirathore1805@gmail.com",
     href: "mailto:vaishnavirathore1805@gmail.com",
   },
-  {
-    icon: Phone,
-    label: "Phone",
-    value: "+91 9119945900",
-    href: "tel:+919119945900",
-  },
-  {
-    icon: MapPin,
-    label: "Location",
-    value: "Kanpur, Uttar Pradesh, India",
-    href: "#",
-  },
 ];
 
 export const Contact = () => {
