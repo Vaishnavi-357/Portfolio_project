@@ -19,15 +19,6 @@ const projects = [
     link: "#",
     github: "https://github.com/Vaishnavi-357/OcularDisease_detection_system",
   },
-  {
-    title: "Personal Portfolio Website",
-    description:
-      "A responsive personal portfolio built to showcase technical skills and project work, with interactive UI components and performance optimizations for a smooth user experience.",
-    image: "/projects/project3.png",
-    tags: ["HTML5", "CSS3", "React.js", "Node.js"],
-    link: "#",
-    github: "https://github.com/Vaishnavi-357/Portfolio_project",
-  },
 ];
 
 export const Projects = () => {
