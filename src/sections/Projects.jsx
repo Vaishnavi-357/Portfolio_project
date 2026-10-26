@@ -2,13 +2,13 @@ import { ArrowUpRight, Github } from "lucide-react";
 import { AnimatedBorderButton } from "@/components/AnimatedBorderButton";
 const projects = [
   {
-    title: "Genie Resume Gap Analyzer",
+    title: "MultiDime: Resume Gap Analyzer",
     description:
       "An AI-powered resume analyzer that converts PDF resumes into structured data, extracts keywords to identify skill gaps, and generates ATS-friendly recommendations using generative AI.",
     image: "/projects/project1.png",
     tags: ["Java", "Spring Boot", "React.js", "MySQL", "JWT", "Generative AI"],
     link: "#",
-    github: "https://github.com/Vaishnavi-357/genie-resume-analyzer",
+    github: "https://github.com/Vaishnavi-357/MultiDime",
   },
   {
     title: "Multi-Class Ocular Disease Detection",
